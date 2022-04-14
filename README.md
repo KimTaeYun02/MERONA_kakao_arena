@@ -1,6 +1,8 @@
 # MERONA_kakao_arena
 카카오아레나 멜론 플레이리스트 추천
-[Paper](https://github.com/CUAI-CAU/2021-CUAI-Winter-Conference/blob/main/paper/H.pdf) [Poster](https://github.com/CUAI-CAU/2021-CUAI-Winter-Conference/blob/main/poster/H.pdf)
+
+
+[[Paper]](https://github.com/CUAI-CAU/2021-CUAI-Winter-Conference/blob/main/paper/H.pdf) [[Poster]](https://github.com/CUAI-CAU/2021-CUAI-Winter-Conference/blob/main/poster/H.pdf)
 ## 1. 노래
 - DAE를 이용한 협업 필터링
 - best model & 데이터 set: https://drive.google.com/drive/folders/1GzXRGccUHFvuVvRnYB_rGt2VmRskajeO?usp=sharing
